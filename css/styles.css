@@ -1,0 +1,100 @@
+body {
+  background-image: url("https://ak.picdn.net/shutterstock/videos/26793484/thumb/12.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+.honeX{
+  text-align: center;
+  color: #f6f6f6;
+  font-family: 'Akaya Kanadaka', cursive;
+  font-size: 4rem;
+  font-style: italic;
+  font-weight: bold;
+}
+
+
+.top-container {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hone {
+  text-align: center;
+  color: #f6f6f6;
+  font-family: 'Akaya Kanadaka', cursive;
+  font-size: 6rem;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.middle-container {
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+.dice {
+  display: inline-block;
+  margin-right:auto ;
+  margin-left: auto;
+  padding-left: 420px;
+
+}
+
+.dice1 {
+  display: inline-block;
+margin-right: auto;
+  margin-left: auto;
+  ;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Fascinate', cursive;
+  font-size: 20px;
+  ;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.imageX {
+  width: 50%;
+  padding-left: 80px;
+}
+
+.footer {
+  position: relative;
+  bottom: 5px;
+
+  margin-left: 620px;
+
+
+}
+
+h5{
+  font-size:20px;
+  font-family: 'Akaya Kanadaka', cursive;
+  color: white;
+}
+.btn{
+  margin-left: 680px;
+  margin-top: 50px;
+
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+
+}
+
+
+.btn:hover {
+  background-color: #f88f01;
+  color: white;
+}
